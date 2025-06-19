@@ -53,7 +53,11 @@ Spring Boot 기반의 백엔드와 Android 앱을 함께 설계하고 개발한 
 
 ## 🛠 Skills
 
-- **Backend**: Java, Spring Boot, JPA, MySQL  
+- **Backend**: ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring-Boot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C.svg?&style=for-the-badge&logo=Hibernate&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+
 - **Mobile**: Kotlin, Android Jetpack, Firebase  
 - **Data Analysis**: Python, Pandas, Matplotlib  
 - **Tools**: Git, Postman, Figma, Notion  
