@@ -69,11 +69,4 @@ Spring Boot 기반의 백엔드와 Android 앱을 함께 설계하고 개발한 
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)
 
 
----
-
-## ✨ Contact
-
-📧 Email: leeum1111@naver.com  
-📱 Phone: 010-2126-1368  
-🐙 GitHub: [github.com/yumiinLEE/yumiinLEE]
 
