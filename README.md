@@ -50,6 +50,7 @@ Spring Boot 기반의 백엔드와 Android 앱을 함께 설계하고 개발한 
 - **2024**: 졸업논문, _Automatic Counting of Chewing Actions in Eating Videos_  
   ▶ [논문 보기](https://ieeexplore.ieee.org/document/10706062/)
 
+---
 
 ## 🛠 Skills
 
