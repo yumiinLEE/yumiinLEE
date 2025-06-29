@@ -55,7 +55,6 @@ Spring Boot 기반의 백엔드와 Android 앱을 함께 설계하고 개발한 
 
 - **Backend**: ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring-Boot&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-59666C.svg?&style=for-the-badge&logo=Hibernate&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 - **Mobile**: ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
 ![Android Jetpack](https://img.shields.io/badge/Android%20Jetpack-4285F4.svg?&style=for-the-badge&logo=android&logoColor=white)
@@ -64,8 +63,6 @@ Spring Boot 기반의 백엔드와 Android 앱을 함께 설계하고 개발한 
 ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C.svg?&style=for-the-badge&logo=plotly&logoColor=white)
 - **Tools**: ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)
 
 
