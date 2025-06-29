@@ -12,7 +12,7 @@ Spring Boot 기반의 백엔드와 Android 앱을 함께 설계하고 개발한 
 ## 💻 Projects
 
 ### 🛒 2025 | 스마트 편의점 앱
-**사용자 출석 포인트 적립 + GPT 기반 상품 추천 기능 구현**
+**AI 기반 스마트 편의점 앱 개발**
 
 - 기술 스택: Kotlin, Android Jetpack, Spring Boot, MySQL, GPT API
 - 기능: 사용자 출석 체크 / 장바구니 / 주문 / 리뷰 / GPT 연동 상품 추천
